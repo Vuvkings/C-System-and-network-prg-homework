@@ -1,0 +1,11 @@
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\bin\Debug\HW1.3.exe.config
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\bin\Debug\HW1.3.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\bin\Debug\HW1.3.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\obj\Debug\HW1.3.csproj.AssemblyReference.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\obj\Debug\HW1._3.Form1.resources
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\obj\Debug\HW1._3.Properties.Resources.resources
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\obj\Debug\HW1.3.csproj.GenerateResource.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\obj\Debug\HW1.3.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\obj\Debug\HW1.3.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\obj\Debug\HW1.3.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HW1.3\HW1.3\obj\Debug\HW1.3.exe.config

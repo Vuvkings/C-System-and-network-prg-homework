@@ -1,0 +1,7 @@
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\Calculator\Calculator\obj\Debug\Calculator.pdb
