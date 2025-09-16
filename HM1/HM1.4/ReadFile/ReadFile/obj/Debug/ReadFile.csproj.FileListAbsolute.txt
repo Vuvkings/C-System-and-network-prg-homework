@@ -1,0 +1,8 @@
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HM1.4\ReadFile\ReadFile\bin\Debug\ReadFile.exe.config
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HM1.4\ReadFile\ReadFile\bin\Debug\ReadFile.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HM1.4\ReadFile\ReadFile\bin\Debug\ReadFile.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HM1.4\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.AssemblyReference.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HM1.4\ReadFile\ReadFile\obj\Debug\ReadFile.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HM1.4\ReadFile\ReadFile\obj\Debug\ReadFile.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HM1.4\ReadFile\ReadFile\obj\Debug\ReadFile.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM1\HM1.4\ReadFile\ReadFile\obj\Debug\ReadFile.exe.config
