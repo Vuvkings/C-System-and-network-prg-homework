@@ -1,0 +1,16 @@
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\bin\Debug\HM3.exe.config
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\bin\Debug\HM3.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\bin\Debug\HM3.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\HM3.csproj.AssemblyReference.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\MainWindow.g.cs
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\App.g.cs
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\HM3_MarkupCompile.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\HM3_MarkupCompile.lref
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\MainWindow.baml
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\HM3.g.resources
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\HM3.Properties.Resources.resources
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\HM3.csproj.GenerateResource.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\HM3.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\HM3.exe
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\HM3.pdb
+D:\TOP Accademy\учебные материалы\Основы C# и .NET\Системное прогрпммирование на C#\TOP-SP\HM3\HM3\obj\Debug\HM3.exe.config
