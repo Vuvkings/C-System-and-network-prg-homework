@@ -1,0 +1,14 @@
+D:\TOP Accademy\HM5\HM5\bin\Debug\net10.0\HM5.exe
+D:\TOP Accademy\HM5\HM5\bin\Debug\net10.0\HM5.deps.json
+D:\TOP Accademy\HM5\HM5\bin\Debug\net10.0\HM5.runtimeconfig.json
+D:\TOP Accademy\HM5\HM5\bin\Debug\net10.0\HM5.dll
+D:\TOP Accademy\HM5\HM5\bin\Debug\net10.0\HM5.pdb
+D:\TOP Accademy\HM5\HM5\obj\Debug\net10.0\HM5.GeneratedMSBuildEditorConfig.editorconfig
+D:\TOP Accademy\HM5\HM5\obj\Debug\net10.0\HM5.AssemblyInfoInputs.cache
+D:\TOP Accademy\HM5\HM5\obj\Debug\net10.0\HM5.AssemblyInfo.cs
+D:\TOP Accademy\HM5\HM5\obj\Debug\net10.0\HM5.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\HM5\HM5\obj\Debug\net10.0\HM5.dll
+D:\TOP Accademy\HM5\HM5\obj\Debug\net10.0\refint\HM5.dll
+D:\TOP Accademy\HM5\HM5\obj\Debug\net10.0\HM5.pdb
+D:\TOP Accademy\HM5\HM5\obj\Debug\net10.0\HM5.genruntimeconfig.cache
+D:\TOP Accademy\HM5\HM5\obj\Debug\net10.0\ref\HM5.dll
