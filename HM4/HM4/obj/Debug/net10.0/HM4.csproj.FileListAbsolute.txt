@@ -1,0 +1,17 @@
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\HM4.GeneratedMSBuildEditorConfig.editorconfig
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\HM4.AssemblyInfoInputs.cache
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\HM4.AssemblyInfo.cs
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\HM4.csproj.CoreCompileInputs.cache
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\HM4.csproj.AssemblyReference.cache
+D:\TOP Accademy\HM4\HM4\bin\Debug\net10.0\HM4.exe
+D:\TOP Accademy\HM4\HM4\bin\Debug\net10.0\HM4.deps.json
+D:\TOP Accademy\HM4\HM4\bin\Debug\net10.0\HM4.runtimeconfig.json
+D:\TOP Accademy\HM4\HM4\bin\Debug\net10.0\HM4.dll
+D:\TOP Accademy\HM4\HM4\bin\Debug\net10.0\HM4.pdb
+D:\TOP Accademy\HM4\HM4\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\HM4.csproj.Up2Date
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\HM4.dll
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\refint\HM4.dll
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\HM4.pdb
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\HM4.genruntimeconfig.cache
+D:\TOP Accademy\HM4\HM4\obj\Debug\net10.0\ref\HM4.dll
