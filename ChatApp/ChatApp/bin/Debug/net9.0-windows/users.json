@@ -1,0 +1,12 @@
+[
+  {
+    "Login": "admin",
+    "Password": "123",
+    "IsOnline": false
+  },
+  {
+    "Login": "gg",
+    "Password": "gg",
+    "IsOnline": true
+  }
+]
